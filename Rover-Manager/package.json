@@ -11,7 +11,7 @@
   "dependencies": {
     "@androz2091/discord-invites-tracker": "^1.1.1",
     "@mateie/discord-logs": "^2.0.2",
-    "axios": "^1.0.0",
+    "axios": "^1.7.8",
     "better-erela.js-spotify": "^1.3.11",
     "child_process": "^1.0.2",
     "colors": "^1.4.0",
@@ -42,7 +42,7 @@
     "remote-sqlite-database": "^1.0.8",
     "request": "^2.88.2",
     "ssh2": "^1.11.0",
-    "sweetalert2": "^11.4.24",
+    "sweetalert2": "^11.14.5",
     "systeminformation": "^5.12.13",
     "winston": "^3.8.2"
   }
